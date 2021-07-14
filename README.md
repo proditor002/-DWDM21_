@@ -1,4 +1,4 @@
-#### Data warehouse & Data Mining 2021
+### Data warehouse & Data Mining 2021
 
 ### Name : Torfun Phongphidet
 ### ID : 623021048-3
